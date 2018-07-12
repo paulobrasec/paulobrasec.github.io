@@ -20,8 +20,8 @@ header {width: 100%; padding:5%;}
 .menu li a {font-size: 0.8rem; font-weight: 400; color: #000; text-transform: uppercase}
 hr{ background-color: #ccc; height: 1px; margin: 20% 0; opacity: 0.2;}
 .social{ display: flex; flex-direction: row; justify-content: space-around;}
-.in {cursor: pointer; margin: 0 auto; background: url('../img/linkedin.svg') 0 0 no-repeat;;}
-.ig {cursor: pointer; margin: 0 auto; background: url('../img/instagram.svg') 0 0 no-repeat;}
+.in {width: 20px; height: 20px; cursor: pointer; margin: 0 auto; background: url('../img/linkedin.svg') 0 0 no-repeat;}
+.ig {width: 20px; height: 20px; cursor: pointer; margin: 0 auto; background: url('../img/instagram.svg') 0 0 no-repeat;}
 
 /* FOTOS */
 .flex_box{ display:flex; flex-wrap: wrap; margin-bottom: 8% !important;}

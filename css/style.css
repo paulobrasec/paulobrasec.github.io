@@ -17,7 +17,7 @@ header {width: 100%; padding:5%;}
 .btn-close, .in, .ig {width: 19px; height: 19px; cursor: pointer; margin: 5%; background: url('../img/close.svg') 0 0 no-repeat;}
 .menu ul {max-width: 100%; text-align: center;} 
 .menu li {padding: 3%;}
-.menu li a {font-size: 0.8rem; font-weight: 400; color: #000; text-transform: uppercase}
+.menu li a {font-size: 0.8rem; font-weight: 400; color: #000;}
 hr{ background-color: #ccc; height: 1px; margin: 20% 0; opacity: 0.2;}
 .social{ display: flex; flex-direction: row; justify-content: space-around;}
 .in {width: 20px; height: 20px; cursor: pointer; margin: 0 auto; background: url('../img/linkedin.svg') 0 0 no-repeat;}

@@ -44,7 +44,7 @@ header{ display: flex; justify-content: center; margin:0; padding: 4% 0;}
 .menu {display: inline-flex !important; position: static;}
 .social {display: none;}
 .menu li {padding: 0; display: inline;}
-.menu li a {font-size: 0.8em; font-weight: 400; margin-right: 15px; font-size: 0.7rem;}}
+.menu li a {font-size: 0.8em; font-weight: 400; margin-right: 15px; font-size: 0.7rem; text-transform: capitalize}}
 
 @media(min-width: 90rem) {.flex_box_item{ height: 190px !important;}}
 
@@ -55,4 +55,4 @@ header{ display: flex; justify-content: center; margin:0; padding: 4% 0;}
 footer{flex-basis: 100%; padding:2.5% 0 0 0; display: flex; flex-direction:row; justify-content: space-between; flex-wrap: wrap;}
 footer ul li{display: inline; margin-right: 15px; }
 footer ul li:nth-child(3){margin-right: 0; }
-footer ul li a, footer h3 {font-size: 0.8rem; font-weight: 400; color: #999;}
+footer ul li a, footer h3 {font-size: 0.8rem; font-weight: 400; color: #999; text-transform: capitalize}
